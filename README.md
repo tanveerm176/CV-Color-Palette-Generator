@@ -1,1 +1,3 @@
-# cv-final-project
+# Color Palette Generator - Hunter College Computational Vision 
+
+As part of the Computational Vision class at Hunter College we created a color palette generator that detects subjects in an image, isolates them, and generates a color palette based on their skin tone and clothing. This project was a proof of concept to be used in fashion and art applications. For example a content creator could upload mutliple images of their outfits throughout the season, and generate a palette to understand which colors are complementary based on their skin and hair. This project was developed using Python adn OpenCV built in deep learning models. You can read more about the project from our prelimiary presentation here.
